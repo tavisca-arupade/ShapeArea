@@ -1,0 +1,15 @@
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\AreaTestProject.deps.json
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\AreaTestProject.runtimeconfig.json
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\AreaTestProject.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\Areas\AreaTestProject\obj\Debug\netcoreapp1.1\AreaTestProject.csprojResolveAssemblyReference.cache
+C:\Users\arupade\source\repos\Areas\AreaTestProject\obj\Debug\netcoreapp1.1\AreaTestProject.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\Areas\AreaTestProject\obj\Debug\netcoreapp1.1\AreaTestProject.AssemblyInfo.cs
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\AreaTestProject.dll
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\AreaTestProject.pdb
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\Areas.dll
+C:\Users\arupade\source\repos\Areas\AreaTestProject\bin\Debug\netcoreapp1.1\Areas.pdb
+C:\Users\arupade\source\repos\Areas\AreaTestProject\obj\Debug\netcoreapp1.1\AreaTestProject.dll
+C:\Users\arupade\source\repos\Areas\AreaTestProject\obj\Debug\netcoreapp1.1\AreaTestProject.pdb

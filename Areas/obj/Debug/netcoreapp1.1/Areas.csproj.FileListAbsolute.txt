@@ -1,0 +1,10 @@
+C:\Users\arupade\source\repos\Areas\Areas\bin\Debug\netcoreapp1.1\Areas.deps.json
+C:\Users\arupade\source\repos\Areas\Areas\bin\Debug\netcoreapp1.1\Areas.runtimeconfig.json
+C:\Users\arupade\source\repos\Areas\Areas\bin\Debug\netcoreapp1.1\Areas.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\Areas\Areas\bin\Debug\netcoreapp1.1\Areas.dll
+C:\Users\arupade\source\repos\Areas\Areas\bin\Debug\netcoreapp1.1\Areas.pdb
+C:\Users\arupade\source\repos\Areas\Areas\obj\Debug\netcoreapp1.1\Areas.csprojResolveAssemblyReference.cache
+C:\Users\arupade\source\repos\Areas\Areas\obj\Debug\netcoreapp1.1\Areas.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\Areas\Areas\obj\Debug\netcoreapp1.1\Areas.AssemblyInfo.cs
+C:\Users\arupade\source\repos\Areas\Areas\obj\Debug\netcoreapp1.1\Areas.dll
+C:\Users\arupade\source\repos\Areas\Areas\obj\Debug\netcoreapp1.1\Areas.pdb
